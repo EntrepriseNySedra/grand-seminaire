@@ -11,7 +11,7 @@
                     <li><a href="contact.html">Contact</a></li>
                 </ul>
                 <div class="col-lg-4"> 
-                    <a href="https://mega.mg/" target="_blank" ><img src="https://mega.mg/logo.png" style="width: 90px;float: right;" /><p style="color: #fff;float: right;padding: 3px 10px;">Website by</p></div>
+                    
                 </div>
             </div>
         </div> 
